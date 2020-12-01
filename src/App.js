@@ -6,8 +6,6 @@ import NavBar from "./components/NavBar"
 import Jumbotron from "./components/Jumbotron";
 
 
-//Used randomuser3 folder code to help figure out how to use API to populate table
-
 function App() {
 const [personsState, setPersonsState] = useState([]);
 
