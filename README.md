@@ -1,7 +1,5 @@
 # Unit 19 React Homework: Employee Directory
 
-## Preview
-<img src= "./public/emp-dir-ss1.png">
 
 
 ## Usage
